@@ -1,6 +1,5 @@
 ### Module Architecture
-It consists of 3 main modules:
-- api: Will take care of the presentation layer and will expose the API for users to access the news articles.
+It consists of 2 main modules:
 - common: Will take care of the common data structures and utilities that will be used across the modules.
 - consumer: Will take care of the ingestion, normalization, and deduplication of news articles from multiple sources.
 
